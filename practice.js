@@ -64,7 +64,7 @@ var groceries = ["apples", "milk", "eggs", "bread"]
 
 var dog = {
   name: "Cat",
-  color: "string",
+  color: "brown",
   age: 1,
   goodBoy: true
 }
